@@ -41,10 +41,10 @@
 ---
 
 ## 📌 Featured Projects
-- 🚕 **Cabzy** – Real-time cab booking system (React + Node.js + Socket.IO)
-- 🧠 **AI Quiz Platform** – AI-driven quiz evaluation system
+- 🚕 **Habitat** – An all-in-one ecosystem for Modern Hostel & Campus Management
+- 🧠 **Slotify** – A comprehensive appointment booking and management platform featuring a customer portal, organizer dashboard, and administrative interface.
 - 💼 **ExpenseFlow** – Role-based expense management system
-- 🚀 **ThinkDrop** – Startup pitch & collaboration platform
+
 
 ---
 
