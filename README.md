@@ -5,8 +5,8 @@
 
 ## 🚀 About Me
 - 🎓 Final-year Computer Engineering student (2026)
-- 💻 Strong in **Java, DSA, OOPs, Backend Development**
-- ⚙️ Experience with **Node.js, Express, REST APIs**
+- 💻 Strong in **Java, DSA, OOPs, SQL, Backend Development**
+- ⚙️ Experience with **Node.js, Express, REST APIs (MERN Stack)**
 - 🌐 Built **real-time & scalable applications**
 - 📚 Solved **200+ coding problems**
 - 🚀 Always learning and building
