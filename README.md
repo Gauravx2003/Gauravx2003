@@ -18,6 +18,7 @@
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-darkblue?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge)
 
@@ -48,11 +49,11 @@
 
 ---
 
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauravx2003&show_icons=true&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Gauravx2003&show_icons=true&include_all_commits=true&theme=algolia)](https://github-stats-extended.vercel.app/api?username=Gauravx2003&show_icons=true&include_all_commits=true&theme=algolia)
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravx2003&layout=compact&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Gauravx2003&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=Gauravx2003&langs_count=4&theme=transparent)
 
 ---
 
